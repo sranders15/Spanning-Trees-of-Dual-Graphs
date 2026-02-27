@@ -7,7 +7,7 @@ Real-world experiments using Census dual graphs at the county, tract, block grou
 
 ## Graph Properties/
 
-Explores and visualizes some basic properties of dual graphs, in particular the spanning tree count.
+Computes and visualizes some basic properties of dual graphs, including the spanning tree count.
 
 ## Perturbing Grids/
 
